@@ -1,0 +1,32 @@
+
+Enter number of processes: 2
+
+Enter number of resources: 3
+
+Enter Claim Vector:1 2 3
+
+Enter Allocated Resource Table:
+1 1 0
+1 1 2
+
+Enter Maximum Claim Table:
+2 2 3
+2 2
+0
+
+The Claim Vector is:    1       2       3
+The Allocated Resource Table:
+        1       1       0
+        1       1       2
+
+The Maximum Claim Table:
+        2       2       3
+        2       2       0
+
+Allocated resources:    2       2       2
+Available resources:    -1      0       1
+
+The processes are in unsafe state.
+
+Process returned 0 (0x0)   execution time : 23.492 s
+Press any key to continue.
